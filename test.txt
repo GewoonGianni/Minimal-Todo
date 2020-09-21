@@ -1,1 +1,2 @@
 you better use vim
+changed file to create a merge conflict now conflict pls
