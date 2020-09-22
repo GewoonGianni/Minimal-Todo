@@ -24,6 +24,7 @@
         <item>10 Minutes</item>
         <item>30 Minutes</item>
         <item>1 Hour</item>
+        <item>2 Hours</item>
     </string-array>
 
     <string name="snooze">Snooze</string>
