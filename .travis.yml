@@ -16,3 +16,14 @@ before_script:
         - chmod +x gradlew
 
 script: "./gradlew build"
+
+deploy:
+    provider: releases
+    api_key:
+        secure: 1cfefe2b07c1bbd963316cb5a54a869bbe75482a
+    file:
+        - app/src/app-release.apk
+    skip_cleanup: true
+    on:
+        repo: https://github.com/GewoonGianni/Minimal-Todo
+        tags: true
