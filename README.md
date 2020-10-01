@@ -1,4 +1,4 @@
-# Minimal ![Build Status](https://travis-ci.org/avjinder/Minimal-Todo.svg?branch=master)
+# Minimal ![Build Status](https://travis-ci.org/gewoongianni/Minimal-Todo.svg?branch=master)
 
 <img src="/screenshots/app_icon.png" height="200px"/> <br>
 A fully Material ToDo app with minimal features, just enough to be useful.
