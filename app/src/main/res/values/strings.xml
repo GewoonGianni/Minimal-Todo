@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Minimal</string>
-    <string name="action_settings">Settings</string>
-    <string name="no_to_dos">You don\'t have any todos</string>
-    <string name="title">Title</string>
-    <string name="remind_me">Remind Me</string>
-    <string name="choose_date">Date</string>
-    <string name="choose_time">Time</string>
-    <string name="remind_date_and_time">Reminder set for %1$s, %2$s %3$s</string>
-    <string name="about">About</string>
-    <string name="app_version">Version: %1$s</string>
-    <string name="contact_me">You can contact me at</string>
+    <string name="app_name">Taken</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="no_to_dos">Je hebt geen taken</string>
+    <string name="title">Titel</string>
+    <string name="remind_me">Herinner me later</string>
+    <string name="choose_date">Datum</string>
+    <string name="choose_time">Tijd</string>
+    <string name="remind_date_and_time">Herrinering staat voor %1$s, %2$s %3$s</string>
+    <string name="about">Over</string>
+    <string name="app_version">Versie: %1$s</string>
+    <string name="contact_me">Contact</string>
     <string name="made_by">Made by Avjinder and forked by GewoonGianni</string>
-    <string name="done_label">Done</string>
-    <string name="date_reminder_default">Today</string>
-    <string name="date_error_check_again">The date you entered is in the past.</string>
-    <string name="night_mode">Night Mode</string>
-    <string name="night_mode_on_summary">Night mode is on</string>
-    <string name="night_mode_off_summary">Night mode is off</string>
-    <string name="description">Description</string>
+    <string name="done_label">Klaar</string>
+    <string name="date_reminder_default">Vandaag</string>
+    <string name="date_error_check_again">Deze datum ligt in het verleden</string>
+    <string name="night_mode">Nacht stand</string>
+    <string name="night_mode_on_summary">Nacht stand staat aan</string>
+    <string name="night_mode_off_summary">Nacht stand staat uit</string>
+    <string name="description">Beschrijving</string>
 
     <string-array name="snooze_options">
-        <item>10 Minutes</item>
-        <item>30 Minutes</item>
-        <item>1 Hour</item>
-        <item>2 Hours</item>
-        <item>3 Hours</item>
-        <item>1 Day</item>
+        <item>10 minuten</item>
+        <item>30 minuten</item>
+        <item>1 uur</item>
+        <item>2 uur</item>
+        <item>3 uur</item>
+        <item>1 dag</item>
     </string-array>
 
     <string name="snooze">Snooze</string>
-    <string name="remove">Remove</string>
-    <string name="todo_error">Please enter a Todo</string>
+    <string name="remove">Verwijder</string>
+    <string name="todo_error">Voeg alsjeblieft een taak toe</string>
 </resources>
